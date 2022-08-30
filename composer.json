@@ -1,0 +1,19 @@
+{
+    "name": "jailson/meuprimeiroprojetousandocomposer",
+    "description": "meu primeiro projeto com composer",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jailson\\Meuprimeiroprojetousandocomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoaoVitorFelixSouza",
+            "email": "joaovitor278891@gmail.com"
+        }
+    ]
+}
